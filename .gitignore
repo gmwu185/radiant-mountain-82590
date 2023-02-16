@@ -1,0 +1,7 @@
+# General
+.DS_Store
+
+# folder
+/.vscode
+/inbox
+node_modules
